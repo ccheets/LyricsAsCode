@@ -1,0 +1,3 @@
+function SpaceCowboy() {
+    return this;
+}
